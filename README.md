@@ -2,7 +2,8 @@
 ![Static Badge](https://img.shields.io/badge/Language-C%23-brightgreen)
 ![Static Badge](https://img.shields.io/badge/Tool-Unity-white)
 
-🎮 Project
+## 🎮 Project
+
 ‧ 개인 프로젝트 https://github.com/Mings1027/UnityGame
 
 ‧ 팀 프로젝트 https://github.com/Mings1027/GameZam
