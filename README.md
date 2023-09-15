@@ -1,10 +1,8 @@
 ##  Skill
 ![Static Badge](https://img.shields.io/badge/Tool-Unity-white)
-
 ![Static Badge](https://img.shields.io/badge/Language-C%23-brightgreen)
 
 ![Static Badge](https://img.shields.io/badge/Modeling-Blender-orange)
-
 ![Static Badge](https://img.shields.io/badge/Version_Control-Github-purple)
 
 
