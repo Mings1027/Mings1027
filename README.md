@@ -1,4 +1,4 @@
-<img src="https://github.com/{Mings1027}/{Mings1027}/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/Mings1027/Mings1027/blob/output/github-contribution-grid-snake.svg"/>
 # 안녕하세요 👋
 
 ### 🚀 소개
