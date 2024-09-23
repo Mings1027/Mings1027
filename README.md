@@ -22,7 +22,7 @@
 
 Experience.
 
-⏺︎ 개인 프로젝트 
+⏺︎ 개인 프로젝트  
 https://github.com/Mings1027/BehaviorTree  
 https://github.com/Mings1027/GrassProject
 
