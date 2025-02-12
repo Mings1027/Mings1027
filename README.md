@@ -10,9 +10,6 @@
 ### 📊 GitHub 통계
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mings1027&show_icons=true&theme=radical)
 
-### 🌱 프로젝트
-- [로그 디펜스](https://apps.apple.com/kr/app/%EB%A1%9C%EA%B7%B8-%EB%94%94%ED%8E%9C%EC%8A%A4/id6477987429) - 타워디펜스 + 로그라이크
-
 ### 💬 소통해요
 - [Email](mailto:mings1027@gmail.com)
 
